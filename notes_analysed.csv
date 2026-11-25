@@ -1,0 +1,11 @@
+note_id,appointment_id,root_cause,confidence,summary,recommended_action,validation_status,raw_response
+N001,A0872,,,,,not_run_api_required,
+N002,A0897,,,,,not_run_api_required,
+N003,A0526,,,,,not_run_api_required,
+N004,A0926,other,0.0,No note recorded,Re-call patient,skipped_blank,
+N005,A0534,,,,,not_run_api_required,
+N006,A0507,,,,,not_run_api_required,
+N007,A0333,,,,,not_run_api_required,
+N008,A0222,,,,,not_run_api_required,
+N009,A0977,,,,,not_run_api_required,
+N010,A0596,,,,,not_run_api_required,
